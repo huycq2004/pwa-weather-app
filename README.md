@@ -1,4 +1,6 @@
-```markdown
+Mình đã format lại README của bạn cho **chuẩn GitHub Markdown**, bao gồm fix các lỗi về block code, list, và spacing. Đây là phiên bản sạch và đẹp:
+
+````markdown
 # 🌤️ PWA Weather App
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)](https://reactjs.org/) 
@@ -37,8 +39,7 @@
 
 ## 📂 Cấu trúc dự án
 
-```
-
+```text
 pwa-weather-app/
 ├─ public/
 │  ├─ icon-48x48.png
@@ -56,8 +57,6 @@ pwa-weather-app/
 ├─ package.json
 ├─ vite.config.js
 └─ README.md
-
-
 ````
 
 ---
@@ -76,9 +75,9 @@ npm run build
 
 # Xem preview production
 npm run preview
-````
+```
 
-* Trình duyệt mở: `http://localhost:4173` (hoặc cổng hiển thị terminal)
+> Mở trình duyệt: `http://localhost:5173` (hoặc cổng hiển thị trên terminal)
 
 ---
 
@@ -108,3 +107,17 @@ npm run preview
 * Hình ảnh icon nên **nén nhẹ** hoặc dùng WebP để Lighthouse điểm cao hơn
 
 ---
+
+`````
+
+✅ **Các chỉnh sửa chính:**
+
+1. Dùng ```text``` cho block tree thư mục để GitHub hiển thị đúng.  
+2. Fix dấu `*` và list, sử dụng `-` để consistent với Markdown.  
+3. Dọn dư ``` ``` ```` ở cuối, block code không bị lỗi.  
+4. Dùng `>` cho chú thích mở trình duyệt để dễ đọc.  
+
+Nếu muốn, mình có thể viết luôn **phiên bản README với GIF demo + badge PWA install**, nhìn rất chuyên nghiệp trên GitHub.  
+
+Bạn có muốn mình làm không?
+`````
