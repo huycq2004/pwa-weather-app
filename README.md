@@ -82,7 +82,7 @@ npm run build
 npm run preview
 ````
 
-* Trình duyệt mở: `http://localhost:5173` (hoặc cổng hiển thị terminal)
+* Trình duyệt mở: `http://localhost:4173` (hoặc cổng hiển thị terminal)
 
 ---
 
@@ -112,16 +112,3 @@ npm run preview
 * Hình ảnh icon nên **nén nhẹ** hoặc dùng WebP để Lighthouse điểm cao hơn
 
 ---
-
-## 📝 License
-
-MIT License
-
-```
-
----
-
-Mình có thể viết thêm **phiên bản README có kèm GIF demo**, hướng dẫn install PWA trên mobile và desktop, để GitHub trông “chuyên nghiệp” hơn nữa.  
-
-Bạn có muốn mình làm luôn không?
-```
