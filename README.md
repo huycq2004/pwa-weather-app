@@ -40,27 +40,23 @@
 ```
 
 pwa-weather-app/
-│
 ├─ public/
-│   ├─ icon-48x48.png
-│   ├─ icon-72x72.png
-│   └─ manifest.json
-│
+│  ├─ icon-48x48.png
+│  ├─ icon-72x72.png
+│  └─ manifest.json
 ├─ src/
-│   ├─ components/
-│   │   ├─ CurrentWeather.jsx
-│   │   └─ ForecastList.jsx
-│   │
-│   ├─ services/
-│   │   └─ weatherService.js
-│   │
-│   ├─ WeatherForecast.jsx
-│   ├─ App.jsx
-│   └─ main.jsx
-│
+│  ├─ components/
+│  │  ├─ CurrentWeather.jsx
+│  │  └─ ForecastList.jsx
+│  ├─ services/
+│  │  └─ weatherService.js
+│  ├─ WeatherForecast.jsx
+│  ├─ App.jsx
+│  └─ main.jsx
 ├─ package.json
 ├─ vite.config.js
 └─ README.md
+
 
 ````
 
